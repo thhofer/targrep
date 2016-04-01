@@ -28,4 +28,6 @@ If searching for the string "ERROR" within any file contained in any of the tarb
 1. Import the function: `source targrep.sh`
 2. Call the function: `targrep "ERROR" parent.tar`
 
+## Credits
+Inspired by the code shared on stackoverflow: http://stackoverflow.com/a/13042529/3690491
                                                          
